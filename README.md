@@ -1,4 +1,4 @@
-scripts
+Scripts
 =======
 
-Scripts that I use often
+Scripts that I use often.
