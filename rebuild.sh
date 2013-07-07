@@ -41,4 +41,8 @@ libtool bison subversion nodejs
 
 curl -L https://get.rvm.io | bash -s stable --ruby
 
-echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"' >> ~/.bashrc
+echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"' >> ~/.bashrc 
+# mac theme
+add-apt-repository ppa:cairo-dock-team/ppa
+apt-get update
+apt-get install cairo-dock cairo-dock-plug-ins
