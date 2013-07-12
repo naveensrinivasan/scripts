@@ -46,3 +46,6 @@ echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"' >> ~
 add-apt-repository ppa:cairo-dock-team/ppa
 apt-get update
 apt-get install cairo-dock cairo-dock-plug-ins
+
+echo 'Installing other tools'
+#ImageMagick

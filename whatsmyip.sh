@@ -1,1 +1,1 @@
-curl ipecho.net/plain > ~/Dropbox/ip
+curl ipecho.net/plain > /home/naveen/Dropbox/ip
