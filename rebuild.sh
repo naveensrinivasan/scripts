@@ -7,7 +7,7 @@ sudo -i
 #add sublime to repository#
  
 # dev tools
-apt-get install git gitk vim-gnome openjdk-7-jdk curl leiningen xclip
+apt-get install git gitk vim-gnome openjdk-7-jdk curl leiningen xclip tmux
 
 # kde
 add-apt-repository ppa:kubuntu-ppa/backports
